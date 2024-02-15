@@ -1,3 +1,3 @@
 # Introduction
 
-<a href="#">![Home!](assets/home.png "Home")</a>
+<a href="#">![Home!](assets/img/home.png "Home")</a>
